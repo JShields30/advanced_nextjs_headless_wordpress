@@ -1,0 +1,1 @@
+# advanced_nextjs_headless_wordpress
